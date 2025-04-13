@@ -100,7 +100,7 @@ const DashboardPreview = () => {
           {/* Map Preview */}
           <div className="h-[550px] bg-gray-200 rounded-xl overflow-hidden relative">
             <img 
-              src="public/lovable-uploads/ma.png" 
+              src="/lovable-uploads/ma.png" 
               alt="Map view with event locations" 
               className="w-full h-full object-contain"
             />
