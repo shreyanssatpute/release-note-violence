@@ -46,13 +46,13 @@ const Timeline = () => {
       date: "May 2025",
       title: "Second Attempt",
       description: "Built on the same H5 model, the system is now integrated with Flask to provide a sleek, modern UI—enhanced with face detection and a physical reporting feature that allows users to report violence at the press of a button.",
-      image: "public/lovable-uploads/a23.jpg"
+      image: "/lovable-uploads/a23.jpg"
     },
     {
       date: "April 2025",
       title: "Final Implementation",
       description: "Fully-featured system with YOLOv5 integration, geospatial intelligence, and centralized dashboard and violence detection monitoring system with automatic violence reporting.",
-      image: "public/lovable-uploads/a3.png"
+      image: "/lovable-uploads/a3.png"
     }
   ];
 
