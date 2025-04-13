@@ -40,7 +40,7 @@ const Timeline = () => {
       date: "November 2024",
       title: "First Attempt",
       description: "The initial prototype for violence detection was built using a custom H5 model developed with Conv2D layers, TensorFlow, and OpenCV. Trained on custom dataset.",
-      image: "public/lovable-uploads/a1.jpg"
+      image: "/lovable-uploads/a1.jpg"
     },
     {
       date: "May 2025",
