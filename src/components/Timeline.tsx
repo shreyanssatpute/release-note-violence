@@ -43,7 +43,7 @@ const Timeline = () => {
       image: "/lovable-uploads/a1.jpg"
     },
     {
-      date: "May 2025",
+      date: "March 2025",
       title: "Second Attempt",
       description: "Built on the same H5 model, the system is now integrated with Flask to provide a sleek, modern UI—enhanced with face detection and a physical reporting feature that allows users to report violence at the press of a button.",
       image: "/lovable-uploads/a23.jpg"
