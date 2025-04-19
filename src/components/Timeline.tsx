@@ -52,7 +52,7 @@ const Timeline = () => {
       date: "April 2025",
       title: "Final Implementation",
       description: "Fully-featured system with YOLOv5 integration, geospatial intelligence, and centralized dashboard and violence detection monitoring system with automatic violence reporting.",
-      image: "/lovable-uploads/a3.png"
+      image: "/lovable-uploads/testing.png"
     }
   ];
 
